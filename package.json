@@ -1,0 +1,23 @@
+{
+  "name": "store-data-in-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SajanKC1234567/Store-Data-In-CSV.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SajanKC1234567/Store-Data-In-CSV/issues"
+  },
+  "homepage": "https://github.com/SajanKC1234567/Store-Data-In-CSV#readme",
+  "dependencies": {
+    "cypress": "^14.0.0"
+  }
+}
